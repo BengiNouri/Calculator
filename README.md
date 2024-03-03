@@ -12,10 +12,11 @@ Division: Divide one number by another, with an error check for division by zero
 ## How to Use
 Run the script in a Python environment. The script will prompt you to select an operation by entering a number corresponding to the operation you wish to perform:
 
-Enter 1 for addition.
-Enter 2 for subtraction.
-Enter 3 for multiplication.
-Enter 4 for division.
+* Enter 1 for addition.
+* Enter 2 for subtraction.
+* Enter 3 for multiplication.
+* Enter 4 for division.
+
 After selecting an operation, you will be prompted to enter the first and second numbers. The script will then display the result of the arithmetic operation.
 
 ## Prerequisites
