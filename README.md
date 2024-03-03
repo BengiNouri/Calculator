@@ -4,10 +4,10 @@ This script calulator.py is a step-by-step implementation of a basic calculator 
 ## Features
 The calculator supports the following operations:
 
-Addition: Add two numbers.
-Subtraction: Subtract one number from another.
-Multiplication: Multiply two numbers.
-Division: Divide one number by another, with an error check for division by zero.
+1. Addition: Add two numbers.
+2. Subtraction: Subtract one number from another.
+3. Multiplication: Multiply two numbers.
+4. Division: Divide one number by another, with an error check for division by zero.
 
 ## How to Use
 Run the script in a Python environment. The script will prompt you to select an operation by entering a number corresponding to the operation you wish to perform:
